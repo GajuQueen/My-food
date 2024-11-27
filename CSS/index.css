@@ -14,9 +14,11 @@
     color: rgb(32, 31, 31);
 }
 .food{
-    border: 1px dashed rgb(39, 24, 167);
+    border: 5px dashed rgb(167, 24, 36);
     padding: 20px;
+    margin: 0px 20px;
 }
+
 #foods{
     width: 25%;
     padding: 20px;
