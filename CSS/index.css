@@ -62,7 +62,26 @@ h3{
     justify-content: center;
 }
 a{
-    border: 1px solid rgb(213, 123, 168);
+border: none;
     padding: 15px 18px;
-   
+   color: black;
+   text-decoration: none;
+}
+a:hoover{
+    color: black;
+    cursor: pointer;
+}
+/* ABOUT************************************** */
+.about{
+    padding: 15px;
+}
+.abouts{
+text-align: center;
+padding: 5px;
+margin: 30px 10px;
+}
+.about img{
+/* border: 30px dashed blue; */
+  width: 70%;
+margin-left: 15%;
 }
