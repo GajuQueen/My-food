@@ -88,4 +88,48 @@ margin-left: 15%;
     padding: 50px 0px;
    text-align: center;  
 }
+.p3{
+    display: flex;
+    padding: 30px 10px;
+    width: 100%;
+    justify-content: space-around;
+    /* border: 2px solid blue; */
+}
+.footer,.blogp, .pplt{
+    /* border: 2px solid blue; */
+    width: 550px;
+    padding: 8px;
+}
+.blogp img{
+width: 30%;
+display: flex;
+/* border: 2px solid rgb(221, 255, 0); */
+}
+#footer,#blog,#pt{
+    /* border: 2px solid rgb(94, 255, 0); */
+    padding: 10px;
+}
+#tf, #tb, #pt, #fl{
+    padding: 10px;
+}
+a{
+    color: black;
+    text-decoration: underline;
+}
 
+.tool,.plane{
+    /* border: 2px solid rgb(255, 0, 144); */
+    display: flex;
+    width: 70%;
+    margin: 20px;
+}
+span{
+    background-color: rgb(85, 81, 81);
+   line-height: 40px;
+   color: aliceblue;
+   padding: 5px;
+}
+#text{
+    /* border: 2px solid rgb(255, 0, 144); */
+    margin: 0px 10px;
+}
